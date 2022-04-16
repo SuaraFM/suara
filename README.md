@@ -5,10 +5,10 @@ The client for suara
 
 | Platform      | Available |
 | ------------- | --------- |
-| iOS           |           |
-| watchOS       |           |
-| Android       |           |
-| Web           |           |
-| Windows       |           |
-| MacOS         |           |
-| Linux         |           |
+| iOS           | ❌        |
+| watchOS       | ❌        |
+| Android       | ❌        |
+| Web           | ❌        |
+| Windows       | ❌        |
+| MacOS         | ❌        |
+| Linux         | ❌        |
